@@ -1,4 +1,5 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-B1,LR44,BatteryHolder_Keystone_2998_1x6.8mm,165.4,-99.2,90,bottom
-D1,LED,LED_0402_1005Metric,165.4,-103.4,180,top
-R1,47,LED_0201_0603Metric,162.3,-100.9,90,top
+,,,21.1,-15.724936,90,top
+D1,LED,LED_0402_1005Metric,21.1,-23.9,180,top
+R1,47,LED_0201_0603Metric,18,-21.8,90,top
+REF**,Banana_Jack_1Pin,Banana_Jack_1Pin,21.1,-25.475064,90,top

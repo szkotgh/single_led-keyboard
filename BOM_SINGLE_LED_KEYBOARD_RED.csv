@@ -1,4 +1,0 @@
-Reference,Value,Datasheet,Footprint,Qty,DNP
-B1,LR44,,Battery:BatteryHolder_Keystone_2998_1x6.8mm,1,
-D1,LED_R,~,LED_SMD:LED_0402_1005Metric,1,
-R1,47,~,LED_SMD:LED_0201_0603Metric,1,
