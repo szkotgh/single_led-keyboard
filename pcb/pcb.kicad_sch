@@ -790,7 +790,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LR44"
+		(property "Value" "3V"
 			(at 165.1 95.2499 90)
 			(effects
 				(font
@@ -799,7 +799,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Battery:BatteryHolder_Keystone_2998_1x6.8mm"
+		(property "Footprint" "Battery:BatteryHolder_LINX_BAT-HLD-012-SMT"
 			(at 161.29 93.98 0)
 			(effects
 				(font

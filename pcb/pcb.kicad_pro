@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.5,
+          "height": 1.8,
+          "width": 1.8
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -216,6 +216,10 @@
         {
           "diameter": 0.6,
           "drill": 0.3
+        },
+        {
+          "diameter": 2.0,
+          "drill": 1.5
         }
       ],
       "zones_allow_external_fillets": false
@@ -485,7 +489,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/Gunhee/Downloads/Gerber File/",
+      "plot": "C:/Users/Gunhee/Downloads/GerberFile/",
       "pos_files": "C:/Users/Gunhee/Downloads/CPL_SINGLE_LED_KEYBOARD.csv",
       "specctra_dsn": "",
       "step": "",
