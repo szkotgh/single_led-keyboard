@@ -108,6 +108,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -139,7 +140,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -510,8 +511,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/dev/PCB/single_led-keyboard/gerber2/",
-      "pos_files": "C:/dev/PCB/single_led-keyboard/",
+      "plot": "D:/Projects/상시/PCB/single_led-keyboard/GERBER/",
+      "pos_files": "D:/Projects/상시/PCB/single_led-keyboard/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -521,7 +522,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "C:\\dev\\PCB\\single_led-keyboard\\BOM.csv",
+    "bom_export_filename": "D:\\Projects\\상시\\PCB\\single_led-keyboard\\pcb.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

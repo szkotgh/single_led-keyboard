@@ -1,6 +1,0 @@
-Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-,,,21.1,-15.724936,90,top
-D1,BLUE,LED_0402_1005Metric,21.1,-23.9,180,top
-R1,47,LED_0201_0603Metric,18,-21.8,90,top
-REF**,Banana_Jack_1Pin,Banana_Jack_1Pin,21.1,-25.475064,90,top
-SW1,KEY_SW,SW_Cherry_MX_1.00u_PCB,23.66,-15.9,0,top
