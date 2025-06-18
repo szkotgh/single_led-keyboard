@@ -1,4 +1,5 @@
-﻿Designator,Val,Mid X,Mid Y,Rotation,Layer
-D1,GREEN,18.98,-22.21,180,top
-R1,47,17.2,-23.7,270,top
-SW1,,19,-17.2,0,top
+﻿Designator,Mid X,Mid Y,Rotation,Layer
+,18.98,-14.034936,90.0,top
+D1,18.98,-22.21,180.0,top
+R1,17.2,-23.7,270.0,top
+SW1,19.0,-17.2,0.0,top

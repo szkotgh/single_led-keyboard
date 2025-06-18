@@ -1,4 +1,5 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
-D1,402,1,GREEN,
-R1,603,1,47,
+,,1,,
+D1,0402,1,BLUE,
+R1,0603,1,47,
 SW1,SW_Cherry_MX_1.00u_PCB,1,KEY_SW,
